@@ -1,0 +1,14 @@
+languageCode = 'en-uk'
+title = 'Invest in UK Agrifood, Invest in Lincolnshire. The Agrifood sector in Lincolnshire is expanding to ensure food security for the nation'
+
+[params]
+  contactdomain = 'https://investlincolnshire.co.uk/'
+  imagedomain = 'https://res.cloudinary.com/lincs/image/upload/q_auto,f_auto/'
+
+[module]
+  [[module.imports]]
+    path = "github.com/crescolincs/lincs-theme"
+
+#Update hugo modules (in our case the theme)$> hugo mod get -u
+
+#dev site https://dev.agrifood.pages.dev
