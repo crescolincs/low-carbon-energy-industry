@@ -200,30 +200,34 @@ companylogos:
   subheading: Businesses established in Lincolnshire’s Low Carbon Energy Industry include
   scrollbarclr: '#90a6ca'
   companies:
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png 
+   - name: investor company logo
+     logo: low-carbon-logo-1.png
+   - name: investor company logo
+     logo: low-carbon-logo-2.png
+   - name: investor company logo
+     logo: low-carbon-logo-3.png
+   - name: investor company logo
+     logo: low-carbon-logo-4.png
+   - name: investor company logo
+     logo: low-carbon-logo-5.png
+   - name: investor company logo
+     logo: low-carbon-logo-6.png
+   - name: investor company logo
+     logo: low-carbon-logo-7.png
+   - name: investor company logo
+     logo: low-carbon-logo-8.png
+   - name: investor company logo
+     logo: low-carbon-logo-9.png
+   - name: investor company logo
+     logo: low-carbon-logo-10.png
+   - name: investor company logo
+     logo: low-carbon-logo-11.png
+   - name: investor company logo
+     logo: low-carbon-logo-12.png
+   - name: investor company logo
+     logo: low-carbon-logo-13.png
+   - name: investor company logo
+     logo: low-carbon-logo-14.png
 
 articles:
   display: true
@@ -249,6 +253,6 @@ sectorCTA:
     - highlight: Location & sector data sets
     - highlight: Support for investing businesses
   contentscolour: 'text-white'
-  footerimg: blue-half-grad.png 
+  footerimg: teal-half-grad.png 
 ---
 
