@@ -85,7 +85,7 @@ offerfeatures:
   display: true
   features:
    - heading: Lincolnshire’s Low Carbon Market Growth Opportunities
-     image: factory.jpg
+     image: low-carbon-1.jpg
      lead: >-
           Lincolnshire is leading the UK’s transition to a low carbon economy. With strengths in energy-intensive industry, the circular economy, sustainable energy generation, and agrifood, the area presents a wide range of opportunities for low carbon business investment and growth.
      body: >-
@@ -99,7 +99,7 @@ offerfeatures:
            - **Offshore Renewable Energy:** Optimally located to service North Sea wind farm zones, Lincolnshire is at the heart of the UK’s offshore renewables sector. Key assets include the UK’s leading operations and maintenance (O&M) hub, in Grimsby, and centres of excellence for sector innovation, technology and skills. Ambitious UK sourcing targets underpin significant growth opportunities for businesses throughout the supply chain.
      ctatext: about Lincolnshire’s low carbon market growth opportunities                    
    - heading: UK-leading Low Carbon and Related Industry Clusters 
-     image: factory.jpg
+     image: low-carbon-2.jpg
      lead: >-
           Lincolnshire is home to established and highly developed industry clusters in low carbon energy, industrial and related sectors, creating a highly advantageous environment for low carbon business investments.
      body: >-
@@ -110,7 +110,7 @@ offerfeatures:
            - **Offshore Renewable Energy:** Major companies in Lincolnshire’s highly developed industry cluster include Ørsted, Siemens Gamesa, RWE, RES and MHI Vestas, creating potential opportunities for expanding businesses across the supply chain.
      ctatext: about Lincolnshire’s low carbon and related industry clusters 
    - heading: Low Carbon Knowledge, Research and Technologies 
-     image: factory.jpg
+     image: low-carbon-3.jpg
      lead: >-
            Lincolnshire’s university and cluster organisations provide specialised low carbon research and technologies, enabling investing businesses in the sector to innovate, expand, implement best practice and maintain competitive edge.
      body: >-
@@ -121,7 +121,7 @@ offerfeatures:
            - The Humber’s low carbon cluster is supported by research and technology organisations and industry partnerships in areas including R&D and innovation, testing and validation, and supply chain development.  Key assets include The Offshore Renewable Energy (ORE) Catapult’s O&M Centre of Excellence, and Aura, an industry consortium led by the University of Hull.
      ctatext: about Lincolnshire’s low carbon knowledge, research and technologies 
    - heading: Workforce, Education and Skills for Low Carbon Sectors 
-     image: factory.jpg
+     image: low-carbon-4.jpg
      lead: >-
            Lincolnshire’s low carbon energy and industrial cluster locations provide access to large, technically skilled labour forces that are outstanding in the UK.
      body: >-
@@ -137,7 +137,7 @@ offerfeatures:
            For businesses investing in low carbon sectors, Lincolnshire’s established, skilled and highly motivated industrial workforce enables recruitment, fast project delivery and productivity.
      ctatext: about Lincolnshire’s low carbon sector workforce, education and skills 
    - heading: Industrial Sites and Properties for Low Carbon Businesses 
-     image: factory.jpg
+     image: low-carbon-5.jpg
      lead: >-
            Lincolnshire offers a range of high-quality, cost-effective sites and property solutions for investing low carbon energy and industrial businesses.
      body: >-
@@ -154,7 +154,7 @@ offerfeatures:
            - Significant cost savings versus key competitor UK energy and industrial hubs.
      ctatext: about sites and properties for low carbon businesses in Lincolnshire 
    - heading: Ports and Logistics Infrastructure for Low Carbon Businesses 
-     image: factory.jpg
+     image: low-carbon-6.jpg
      lead: >-
            Focused on the South Humber ports, Lincolnshire delivers highly developed, specialised ports and logistics services to businesses in low carbon energy and industrial sectors.
      body: >-         
@@ -173,7 +173,7 @@ offerfeatures:
            - Established infrastructure and supply chains for low carbon energy generation and process industries.
      ctatext: about Lincolnshire’s ports and logistics infrastructure for low carbon businesses 
    - heading: Fast UK & Global Market Access for Low Carbon Businesses 
-     image: factory.jpg
+     image: low-carbon-7.jpg
      lead: >-
            Lincolnshire provides businesses in low carbon energy and industrial sectors with fast, multimodal access to UK and international markets.
      body: >-                                       
