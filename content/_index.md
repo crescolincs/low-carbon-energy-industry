@@ -33,7 +33,7 @@ investmentopportunity:
    - icon: 'property.svg'
      title: 'Sites & Properties'
      description: 'Cost-effective industrial sites and properties, potentially with Freeport incentives and large industrial power supplies.' 
-   - icon: 'logistics.svg'
+   - icon: 'infrastructure-icon.svg'
      title: 'Logistics Infrastructure'
      description: 'Highly developed ports and logistics infrastructure, serving sectors including offshore renewables and process industry.'                        
    - icon: 'connectivity.svg'
@@ -62,19 +62,19 @@ marketopportunity:
      display: false
      img: 
   stats: 
-   - name: UK Consumers
-     size: 67.7
-     measure: million
+   - name: Decarbonisation
+     size: NET ZERO
+     measure: uk emissions by 2050
      clrscheme: light
      textcolor: sector-dark
-   - name: UK Market Value
-     size: £254
-     measure: billion P.A.
+   - name: Circular Economy
+     size: Zero
+     measure: UK Avoidable waste by 2050
      clrscheme: mid
      textcolor: white
-   - name: UK Market Growth
-     size: +37%
-     measure: 2010-2019
+   - name: Offshore Renewables
+     size: '#1'
+     measure: Uk- world's largest market
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK low carbon energy and industry market opportunity
