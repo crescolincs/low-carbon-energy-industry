@@ -246,6 +246,12 @@ sectorCTA:
     - highlight: Location & sector data sets
     - highlight: Support for investing businesses
   contentscolour: 'text-white'
+  formhandler: brochurerequest
+  hiddenformfields:
+     - field: brochure
+       value: low-carbon-energy
+     - field: cc
+       value: dklongley@clarity-strategies  
   footerimg: teal-half-grad.png 
 ---
 
