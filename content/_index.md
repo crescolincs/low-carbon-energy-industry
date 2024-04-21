@@ -194,33 +194,33 @@ companylogos:
   scrollbarclr: '#90a6ca'
   companies:
    - name: investor company logo
-     logo: low-carbon-logo-1.png
+     logo: low-carbon-logo-1.png?1
    - name: investor company logo
-     logo: low-carbon-logo-2.png
+     logo: low-carbon-logo-2.png?1
    - name: investor company logo
-     logo: low-carbon-logo-3.png
+     logo: low-carbon-logo-3.png?1
    - name: investor company logo
-     logo: low-carbon-logo-4.png
+     logo: low-carbon-logo-4.png?1
    - name: investor company logo
-     logo: low-carbon-logo-5.png
+     logo: low-carbon-logo-5.png?1
    - name: investor company logo
-     logo: low-carbon-logo-6.png
+     logo: low-carbon-logo-6.png?1
    - name: investor company logo
-     logo: low-carbon-logo-7.png
+     logo: low-carbon-logo-7.png?1
    - name: investor company logo
-     logo: low-carbon-logo-8.png
+     logo: low-carbon-logo-8.png?1
    - name: investor company logo
-     logo: low-carbon-logo-9.png
+     logo: low-carbon-logo-9.png?1
    - name: investor company logo
-     logo: low-carbon-logo-10.png
+     logo: low-carbon-logo-10.png?1
    - name: investor company logo
-     logo: low-carbon-logo-11.png
+     logo: low-carbon-logo-11.png?1
    - name: investor company logo
-     logo: low-carbon-logo-12.png
+     logo: low-carbon-logo-12.png?1
    - name: investor company logo
-     logo: low-carbon-logo-13.png
+     logo: low-carbon-logo-13.png?1
    - name: investor company logo
-     logo: low-carbon-logo-14.png
+     logo: low-carbon-logo-14.png?1
 
 articles:
   display: false
@@ -249,7 +249,7 @@ sectorCTA:
   formhandler: brochurerequest
   hiddenformfields:
      - field: brochure
-       value: low-carbon-energy
+       value: low-carbon-energy?1
      - field: cc
        value: dklongley@clarity-strategies  
   footerimg: teal-half-grad.png 
