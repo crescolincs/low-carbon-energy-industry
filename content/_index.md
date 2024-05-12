@@ -65,16 +65,19 @@ marketopportunity:
    - name: Decarbonisation
      size: NET ZERO
      measure: uk emissions by 2050
+     when:
      clrscheme: light
      textcolor: sector-dark
    - name: Circular Economy
      size: Zero
-     measure: UK Avoidable waste by 2050
+     measure: UK Avoidable waste 
+     when: by 2050
      clrscheme: mid
      textcolor: white
-   - name: Offshore Renewables
+   - name: UK Offshore Renewables
      size: '#1'
-     measure: Uk- world's largest market
+     measure: European market
+     when:
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK low carbon energy and industry market opportunity
@@ -91,7 +94,7 @@ offerfeatures:
 
            - **Industrial Decarbonisation:** The Humber industrial cluster is leading the world in large-scale decarbonisation projects, applying technologies including carbon capture usage and storage (CCUS) and low carbon hydrogen.
 
-           - **The Circular Economy:** Lincolnshire is home to high-growth business clusters producing energy, innovative fuels and products from waste; and improving agrifood sector sustainability through food waste recycling and recycled food packaging.
+           - **The Circular Economy:** Lincolnshire is home to high-growth business clusters producing energy, innovative fuels and products from waste, and improving agrifood sector sustainability through food waste recycling and recycled food packaging.
 
            - **Offshore Renewable Energy:** Lincolnshire is home to the UK’s leading offshore renewables hub, focused on Grimsby. Ambitious UK sourcing targets are creating significant growth opportunities for businesses throughout the supply chain.
      ctatext: about Lincolnshire’s low carbon market growth opportunities                    
@@ -134,7 +137,7 @@ offerfeatures:
    - heading: Industrial Sites and Properties for Low Carbon Businesses 
      image: low-carbon-5.jpg
      lead: >-
-           Lincolnshire offers a range of high-quality, cost-effective sites and property solutions for investing low carbon energy and industrial businesses.
+           Lincolnshire offers a range of high-quality, cost-effective sites and properties for investing low carbon energy and industrial businesses.
      body: >-
            Site and property solutions and benefits include:
                      
