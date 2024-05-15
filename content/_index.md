@@ -252,7 +252,7 @@ sectorCTA:
   formhandler: brochurerequest
   hiddenformfields:
      - field: brochure
-       value: low-carbon-energy
+       value: invest-lincs-low-carbon-energy
      - field: cc
        value: dklongley@clarity-strategies  
   footerimg: teal-half-grad.png 
