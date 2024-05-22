@@ -1,5 +1,6 @@
 languageCode = 'en-uk'
 title = 'Invest in UK Agrifood, Invest in Lincolnshire. The Agrifood sector in Lincolnshire is expanding to ensure food security for the nation'
+baseURL = 'https://low-carbon-energy-industry.investlincolnshire.co.uk/'
 
 [params]
   contactdomain = 'https://investlincolnshire.co.uk/'
