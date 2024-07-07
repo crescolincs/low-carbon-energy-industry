@@ -49,6 +49,7 @@ investmentopportunity:
      title: 'Dedicated Support'
      description: >-
        Dedicated support for investing businesses.
+
 marketopportunity:
   display: true
   heading: "The UK Low Carbon Market Opportunity"
