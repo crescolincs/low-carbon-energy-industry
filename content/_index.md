@@ -19,29 +19,36 @@ investmentopportunity:
   offer:
    - icon: 'market.svg'
      title: 'Market Opportunity'
-     description: 'The UK’s most ambitious industrial decarbonisation project, a dynamic circular economy cluster, and the country’s leading offshore renewables hub.'
+     description: >-
+       The UK’s most ambitious industrial decarbonisation project, a dynamic circular economy cluster, and the country’s leading offshore renewables hub.
    - icon: 'business.svg'
      title: 'Industry Clusters'
-     description: 'Established industrial strengths in energy generation, energy-intensive industries, and port logistics.' 
+     description: >-
+       Established industrial strengths in energy generation, energy-intensive industries, and port logistics.
    - icon: 'research.svg'
      title: 'Research & Technology'
      description: >-
        Advanced, low carbon R&D encompassing power systems, process manufacturing, offshore renewables, and Industry 4.0 technologies. 
    - icon: 'workforce.svg'
      title: 'Specialist Workforce'
-     description: 'A technically skilled workforce and education providers addressing the needs of low carbon energy and industrial businesses.' 
+     description: >- 
+       A technically skilled workforce and education providers addressing the needs of low carbon energy and industrial businesses.
    - icon: 'property.svg'
      title: 'Sites & Properties'
-     description: 'Cost-effective industrial sites and properties, potentially with Freeport incentives and large industrial power supplies.' 
+     description: >-
+       Cost-effective industrial sites and properties, potentially with Freeport incentives and large industrial power supplies.
    - icon: 'infrastructure-icon.svg'
      title: 'Logistics Infrastructure'
-     description: 'Highly developed ports and logistics infrastructure, serving sectors including offshore renewables and process industry.'                        
+     description: >-
+       Highly developed ports and logistics infrastructure, serving sectors including offshore renewables and process industry.
    - icon: 'connectivity.svg'
      title: 'Multimodal Connectivity'
-     description: 'Fast, multimodal access to UK & global markets.'
+     description: >-
+       Fast, multimodal access to UK & global markets.
    - icon: 'support.svg'
      title: 'Dedicated Support'
-     description: 'Dedicated support for investing businesses.'                 
+     description: >-
+       Dedicated support for investing businesses.
 marketopportunity:
   display: true
   heading: "The UK Low Carbon Market Opportunity"
