@@ -193,7 +193,6 @@ support:
   display: true
   bgcolor: '#252159'
   heading: Support for Your Low Carbon Energy or Industrial Business Investment
-  image: grey-grad.png
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
