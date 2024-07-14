@@ -1,6 +1,6 @@
 ---
 title: "Invest in Lincolnshire's Low Carbon Energy & Industrial Sectors"
-socialImage: 'low-carbon-header.png'
+socialImage: 'https://res.cloudinary.com/lincs/image/upload/low-carbon-header.png'
 sector: low-carbon-energy
 seoDescription: >-
               Lincolnshire is at the forefront of the UK’s Green Industrial Revolution, creating profitable opportunities for investing businesses in low carbon energy and industrial sectors, aligned with ambitious national sustainability goals.
@@ -11,41 +11,41 @@ hero:
   heading: "Invest in Lincolnshire's Low Carbon Energy & Industrial Sectors: Key Benefits and Opportunities "
   blurb: >-
         Lincolnshire is at the forefront of the UK’s Green Industrial Revolution, creating profitable opportunities for investing businesses in low carbon energy and industrial sectors, aligned with ambitious national sustainability goals.
-  heroImg: 'low-carbon-header.png'
+  heroImg: 'https://res.cloudinary.com/lincs/image/upload/low-carbon-header.png'
 investmentopportunity:
   display: true
   heading: 'The Lincolnshire Low Carbon Energy & Industry Investment Opportunity '
   subheading: 'For investing low carbon energy and industrial businesses, Lincolnshire offers:'
   offer:
-   - icon: 'market.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/market.svg'
      title: 'Market Opportunity'
      description: >-
        The UK’s most ambitious industrial decarbonisation project, a dynamic circular economy cluster, and the country’s leading offshore renewables hub.
-   - icon: 'business.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/business.svg'
      title: 'Industry Clusters'
      description: >-
        Established industrial strengths in energy generation, energy-intensive industries, and port logistics.
-   - icon: 'research.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/research.svg'
      title: 'Research & Technology'
      description: >-
        Advanced, low carbon R&D encompassing power systems, process manufacturing, offshore renewables, and Industry 4.0 technologies. 
-   - icon: 'workforce.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/workforce.svg'
      title: 'Specialist Workforce'
      description: >- 
        A technically skilled workforce and education providers addressing the needs of low carbon energy and industrial businesses.
-   - icon: 'property.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/property.svg'
      title: 'Sites & Properties'
      description: >-
        Cost-effective industrial sites and properties, potentially with Freeport incentives and large industrial power supplies.
-   - icon: 'infrastructure-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/infrastructure-icon.svg'
      title: 'Logistics Infrastructure'
      description: >-
        Highly developed ports and logistics infrastructure, serving sectors including offshore renewables and process industry.
-   - icon: 'connectivity.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/connectivity.svg'
      title: 'Multimodal Connectivity'
      description: >-
        Fast, multimodal access to UK & global markets.
-   - icon: 'support.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/support.svg'
      title: 'Dedicated Support'
      description: >-
        Dedicated support for investing businesses.
@@ -93,7 +93,7 @@ offerfeatures:
   display: true
   features:
    - heading: Lincolnshire’s Low Carbon Market Growth Opportunities
-     image: low-carbon-1.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/low-carbon-1.jpg
      lead: >-
           Lincolnshire is leading the UK’s transition to a low carbon economy, creating investment opportunities in sectors including sustainable energy generation, energy-intensive industry, the circular economy, and agrifood.
      body: >-
@@ -107,7 +107,7 @@ offerfeatures:
            - **Offshore Renewable Energy:** Lincolnshire is home to the UK’s leading offshore renewables hub, focused on Grimsby. Ambitious UK sourcing targets are creating significant growth opportunities for businesses throughout the supply chain.
      ctatext: about Lincolnshire’s low carbon market growth opportunities                    
    - heading: UK-leading Low Carbon and Related Industry Clusters 
-     image: low-carbon-2.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/low-carbon-2.jpg
      lead: >-
           Lincolnshire is home to established industry clusters focused on low carbon energy, energy-intensive industry, and the circular economy, creating a range of opportunities for low carbon business investment and growth.
      body: >-
@@ -118,7 +118,7 @@ offerfeatures:
            - **Offshore Renewable Energy:** Lincolnshire’s highly developed industry cluster includes leading energy, operations and maintenance, and logistics companies, creating potential growth opportunities for businesses throughout the supply chain.
      ctatext: about Lincolnshire’s low carbon and related industry clusters 
    - heading: Low Carbon Knowledge, Research and Technologies 
-     image: defence-1.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/defence-1.jpg
      lead: >-
            Lincolnshire’s university and cluster organisations provide specialised low carbon research and technologies, enabling investing businesses to innovate, expand, implement best practice and maintain competitive edge.
      body: >-
@@ -129,7 +129,7 @@ offerfeatures:
            - Lincolnshire’s research organisations and industry partnerships support low carbon businesses in areas including innovation, testing and validation, and supply chain development.
      ctatext: about Lincolnshire’s low carbon knowledge, research and technologies
    - heading: Workforce, Education and Skills for Low Carbon Sectors 
-     image: low-carbon-4.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/low-carbon-4.jpg
      lead: >-
            For investing businesses, Lincolnshire’s low carbon energy and industrial cluster locations provide access to technically skilled workers and dedicated skills providers - enabling recruitment, faster project delivery, and improved productivity.
      body: >-
@@ -143,7 +143,7 @@ offerfeatures:
        
      ctatext: about Lincolnshire’s low carbon sector workforce, education and skills 
    - heading: Industrial Sites and Properties for Low Carbon Businesses 
-     image: low-carbon-5.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/low-carbon-5.jpg
      lead: >-
            Lincolnshire offers a range of high-quality, cost-effective sites and properties for investing low carbon energy and industrial businesses.
      body: >-
@@ -160,7 +160,7 @@ offerfeatures:
            - Significant cost savings versus key competitor UK energy and industrial hubs.
      ctatext: about sites and properties for low carbon businesses in Lincolnshire 
    - heading: Ports and Logistics Infrastructure for Low Carbon Businesses 
-     image: low-carbon-7.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/low-carbon-7.jpg
      lead: >-
            Focused on the South Humber ports, Lincolnshire offers comprehensive port and logistics services for businesses in low carbon energy and industrial sectors.
      body: >-         
@@ -177,7 +177,7 @@ offerfeatures:
            - Established infrastructure and supply chains for low carbon energy generation and process industries.
      ctatext: about Lincolnshire’s ports and logistics infrastructure for low carbon businesses  
    - heading: Fast UK & Global Market Access for Low Carbon Businesses 
-     image: low-carbon-6.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/low-carbon-6.jpg
      lead: >-
            Lincolnshire provides businesses in low carbon energy and industrial sectors with fast, multimodal access to UK and international markets.
      body: >-                                       
@@ -196,7 +196,7 @@ support:
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
-  image: blue-grad
+  image: https://res.cloudinary.com/lincs/image/upload/blue-grad
 companylogos:
   display: true
   heading: Home to Leading Low Carbon Businesses
@@ -204,33 +204,33 @@ companylogos:
   scrollbarclr: '#90a6ca'
   companies:
    - name: investor company logo
-     logo: low-carbon-logo-1.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-1.png?1
    - name: investor company logo
-     logo: low-carbon-logo-2.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-2.png?1
    - name: investor company logo
-     logo: low-carbon-logo-3.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-3.png?1
    - name: investor company logo
-     logo: low-carbon-logo-4.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-4.png?1
    - name: investor company logo
-     logo: low-carbon-logo-5.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-5.png?1
    - name: investor company logo
-     logo: low-carbon-logo-6.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-6.png?1
    - name: investor company logo
-     logo: low-carbon-logo-7.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-7.png?1
    - name: investor company logo
-     logo: low-carbon-logo-8.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-8.png?1
    - name: investor company logo
-     logo: low-carbon-logo-9.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-9.png?1
    - name: investor company logo
-     logo: low-carbon-logo-10.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-10.png?1
    - name: investor company logo
-     logo: low-carbon-logo-11.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-11.png?1
    - name: investor company logo
-     logo: low-carbon-logo-12.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-12.png?1
    - name: investor company logo
-     logo: low-carbon-logo-13.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-13.png?1
    - name: investor company logo
-     logo: low-carbon-logo-14.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/low-carbon-logo-14.png?1
 
 articles:
   display: false
@@ -241,7 +241,7 @@ sectorCTA:
   headingcolor: light
   buttoncolor: '#e75a13'
   buttonhover: '#af0000'
-  image: low-carbon-brochure.png
+  image: https://res.cloudinary.com/lincs/image/upload/low-carbon-brochure.png
   heading: Get the Data on Lincolnshire as a Low Carbon Business Location
   lead: >-
      Lincolnshire’s low carbon energy and industry Business Location Guide provides essential information and data for companies researching and evaluation Lincolnshire as a potential investment location, including:                                       
@@ -262,6 +262,6 @@ sectorCTA:
        value: invest-lincs-low-carbon-energy
      - field: cc
        value: dklongley@clarity-strategies  
-  footerimg: teal-half-grad.png 
+  footerimg: https://res.cloudinary.com/lincs/image/upload/teal-half-grad.png 
 ---
 
