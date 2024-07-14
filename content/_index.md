@@ -82,8 +82,8 @@ marketopportunity:
   stats:
     - name: Decarbonisation
       size: NET ZERO
-      measure: uk emissions by 2050
-      when: ""
+      measure: "uk emissions "
+      when: by 2050
       clrscheme: light
       textcolor: sector-dark
     - name: Circular Economy
