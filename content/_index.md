@@ -73,7 +73,7 @@ marketopportunity:
    - name: Decarbonisation
      size: NET ZERO
      measure: uk emissions by 2050
-     when:
+     when: ""
      clrscheme: light
      textcolor: sector-dark
    - name: Circular Economy
@@ -85,7 +85,7 @@ marketopportunity:
    - name: UK Offshore Renewables
      size: '#1'
      measure: European market
-     when:
+     when: ""
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK low carbon energy and industry market opportunity

@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: crescolincs/defence-security
+  repo: crescolincs/low-carbon-energy-industry
   branch: main
   base_url: https://smc.agrifood.pages.dev #url for Oauth app on Github Developer settings
   auth_endpoint: /api/auth
@@ -17,11 +17,12 @@ publish_mode: editorial_workflow
 logo_url: https://res.cloudinary.com/lincs/image/upload/v1716044699/invest-lincolnshire-logo.svg
 
 
-media_folder: "site/static/img" # Folder where user uploaded files should go
+media_folder: "/img" # Folder where user uploaded files should go
+public_folder: "/img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Articles" # Used in the UI, ie.: "New Post"
+    label: "Article" # Used in the UI, ie.: "New Post"
     folder: "content/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # all The fields each document in this collection have
@@ -34,40 +35,42 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Featured Post Position (1 to 4)", name: "weight", widget: "number", value_type: "int", min: 0, max: 4, step: 1, required: false}  
       - {label: "Social Media Image", name: "socialimage", widget: "image", required: false}            
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "select", options: ["Low Carbon","Energy"], multiple: true,required: false}      
+      - {label: "Tags", name: "tags", widget: "select", options: ["Logistics","Transport"], multiple: true,required: false}      
       - {label: "Sources", name: "sources", widget: "list", fields: [
               {label: "Ref No", name: "refno", widget: "number", required: false},
               {label: "Source", name: "source", widget: "string", required: false},
               {label: "Url", name: "url", widget: "string", required: false },
               {label: "Url Title", name: "urltitle", widget: "string", required: false }],required: false}
       - {label: "SEO Description", name: "SEODesc", widget: "text", required: false}                    
+      - {label: "Content Type", name: "type", widget: "hidden", default: article}
+      - {label: "Layout Template", name: "layout", widget: "hidden", default: post} 
   - name: "pages"
     label: "Pages"
     files:
       - file: "content/_index.md"
-        label: "Defence and Security Home Page"
+        label: "Logistics Home Page"
         name: "home"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Social Image", name: "socialImage", widget: "image" , required: false, hint: An image that will be picked up by social media platforms}
-          - {label: "Sector", name: "sector", widget: "hidden", default: low-carbon-energy}
+          - {label: "Social Image", name: "socialImage", widget: "image", allow_multiple: false , required: false, hint: An image that will be picked up by social media platforms}
+          - {label: "Sector", name: "sector", widget: "hidden", default: defence-security}
           - {label: "Description(SEO)", name: "seoDescription", widget: "text", required: false, hint: A description/synopsis of the content to help search engines undestand the value to your audience}
-          - {label: "CTA Arrow Dark", name: "ctaarrowclrdark", widget: "hidden", default: '#80244e'}
-          - {label: "CTA Arrow Light", name: "ctaarrowclrlight", widget: "hidden", default: '#dd898e'}
+          - {label: "CTA Arrow Dark", name: "ctaarrowclrdark", widget: "hidden", default: '#126160'}
+          - {label: "CTA Arrow Light", name: "ctaarrowclrlight", widget: "hidden", default: '#aacf8b'}
 
           - {label: "Hero", name: "hero", widget: "object", fields: [
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Hero Section.},
               {label: "Heading", name: "heading", widget: "string", hint: A clear statement that indicates who this offer is for and how it will help them },
               {label: "Strapline", name: "blurb", widget: "string", hint: A Strapline/Subheading for the Hero Section},
-              {label: "Hero Image", name: "heroImg", widget: "image"}]}
+              {label: "Hero Image", name: "heroImg", widget: "image", allow_multiple: false}]}
 
           - {label: "Investment Opportunity", name: "investmentopportunity", widget: "object", fields: [
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Investment Opportunity Section.},
               {label: "Heading", name: "heading", widget: "string", hint: A clear statement that indicates who this offer is for and how it will help them },
               {label: "Subheading", name: "subheading", widget: "string", hint: A clear statement that indicates who this offer is for and how it will help them },
               {label: "The Offer", name: "offer", widget: "list", fields: [
-                  {label: "Icon", name: "icon", widget: "image" },
                   {label: "Title", name: "title", widget: "string" },
+                  {label: "Icon", name: "icon", widget: "image", allow_multiple: false },                  
                   {label: "Description", name: "description", widget: "text"}]}]}
 
           - {label: "Market Opportunity", name: "marketopportunity", widget: "object", fields: [
@@ -90,7 +93,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Offer Features Section.},
               {label: "Features", name: "features", widget: "list", fields: [
                 {label: "Feature", name: "heading", widget: "string"},
-                {label: "Image", name: "image", widget: "image"},
+                {label: "Image", name: "image", widget: "image", allow_multiple: false},
                 {label: "Intro", name: "lead", widget: "text"},
                 {label: "Description", name: "body", widget: "markdown"},
                 {label: "Call To Action", name: "ctatext", widget: "string"}]}]}
@@ -101,16 +104,16 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Scrollbar Colour", name: "scrollbarclr", widget: "hidden" },
               {label: "The Companies", name: "companies", widget: "list", fields: [
                   {label: "Company Name", name: "name", widget: "string", required: false },
-                  {label: "Logo", name: "logo", widget: "image" }]}]}          
+                  {label: "Logo", name: "logo", widget: "image", allow_multiple: false }]}]}          
           - {label: "Support Section", name: "support", widget: "object", fields: [
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Support Section.},
               {label: "Heading", name: "heading", widget: "string", required: false},
               {label: "Subheading", name: "lead", widget: "string", required: false },
               {label: "Call to Action", name: "ctatext", widget: "string", required: false },
-              {label: "Support Section Image", name: "image", widget: "hidden" }]}
+              {label: "Support Section Image", name: "image", widget: "hidden", default: 'https://res.cloudinary.com/lincs/image/upload/q_auto,f_auto/yellow-grad', allow_multiple: false }]}
           - {label: "Call To Action Section", name: "sectorCTA", widget: "object", fields: [
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Call To Action Section.},
-              {label: "Call To Action Image", name: "image", widget: "image"},
+              {label: "Call To Action Image", name: "image", widget: "image", allow_multiple: false},
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Description", name: "lead", widget: "text" },
               {label: "Background Colour", name: "bgcolor", widget: "hidden", default: 'dark' },
@@ -124,5 +127,5 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Hidden Form Fields", name: "hiddenformfields", widget: "list", fields: [
                   {label: "Field Name", name: "field", widget: "hidden" },
                   {label: "Field Value", name: "value", widget: "hidden" }]},
-              {label: "Image in the footer section", name: "footerimg", widget: "hidden", default: 'blue-half-grad.png'}]}
+              {label: "Image in the footer section", name: "footerimg", widget: "hidden", default: 'https://res.cloudinary.com/lincs/image/upload/q_auto,f_auto/green-half-grad.png'}]}
       
