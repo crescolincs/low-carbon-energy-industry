@@ -269,7 +269,7 @@ sectorCTA:
     - field: brochure
       value: invest-lincs-low-carbon-energy
     - field: cc
-      value: dklongley@clarity-strategies
+      value: investment@lincolnshire.gov.uk
   footerimg: https://res.cloudinary.com/lincs/image/upload/teal-half-grad.png
   buttonhover: "#af0000"
   buttoncolor: "#e75a13"
